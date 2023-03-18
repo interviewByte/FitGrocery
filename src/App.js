@@ -3,6 +3,8 @@ import './App.css';
 import {Route, Routes, BrowserRouter} from 'react-router-dom'
 import { Home } from './PAGES/HomePage/Home';
 import './App.css'
+import "slick-carousel/slick/slick.css";
+import "slick-carousel/slick/slick-theme.css";
 
 function App() {
 	return (
